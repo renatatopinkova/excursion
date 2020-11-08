@@ -5,12 +5,32 @@ html {
   font-family: Verdana;
 }
 
+body {
+  margin: 8px;
+}
+
 h1 {
   font-size: 50px;
   font-weight: normal;
+  margin: 35px;
 }
 
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
+  color: gray;
 }
